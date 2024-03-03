@@ -308,6 +308,10 @@ h6 {
   right: 0;
 }
 
+h5 {
+  color: darkblue;
+}
+
 #hero h1 {
   margin: 0;
   font-size: 64px;
